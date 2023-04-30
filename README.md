@@ -17,6 +17,7 @@ pdf generator:
 
 oauth integration:
 - why? to send data back?
+- to ease logins, skip a registration
 
 persistence:
 - airtable or db?
